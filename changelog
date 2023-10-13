@@ -1,0 +1,11 @@
+// v1.0: Main pack release (10.13.23). Includes:
+//       3 tiers of generic mooks:
+//          * Street Thugs: Junkies, Punks, Bullies
+//          * Gangsters: Boosters, Enforcers, Slumlords
+//          * RatSec/Corporate Security: Grunts, Elites, Execs 
+//              + Mini Air Drones, Ground Drones, Security Turrets, Security Cameras
+//       1 gang (Maelstrom):
+//          * Brawlers, Punishers, Rippers, Psychoes
+//       1 corp (Militech):
+//          * Grunt, Suppressor, Specialist, Brute, Demolitionist, Strike Commander
+//              + A/V-4, Predator Tank, "Roach" Armored Transport
