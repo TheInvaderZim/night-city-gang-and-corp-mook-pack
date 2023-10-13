@@ -1,0 +1,41 @@
+{
+  "id": "night-city-gang-and-corp-mook-pack",
+  "title": "Night City Gang & Corp Mook Pack",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "NOTE: Mooks are structured around light homebrew options, all of which are optional. See the included journal entry for more information on this homebrew, or the PDF, which can be found at the Package URL.\n\nThe NC Gang &amp; Corp pack includes 20+ premade mooks that are ready-made for you to include in your gigs! Included in this pack, so far:\n\n* 3 tiers of generic mooks (street thugs, gangsters, and corporate security) with 3 mooks each + variants + some generic tech that's been reformatted to fit your game\n\n* 1 corp (Militech) with 6 mooks + extensive variants + 2 vehicles (note: good vehicle tokens will not be included, unfortunately, as I don't own the distribution rights for any. Expect ones akin to normal mooks (art in a container) that can be resized to fit the scene.)\n\n* 1 gang (Maelstrom) with 4 mooks + extensive variants\n\n* All mooks include 4 generic skills + curated stats for ease of use and adaptability while playing\n\n* All mooks include at least 3 tokens + unique art, with most featuring upwards of 6.\n\n* Every type of mook (each tier + each gang) has a unique gang-wide ability, and each mook has a unique ability, all of which are tailored for ease-of-implementation while playing\n\n* Light supporting homebrew &amp; new items also included. All of it is optional.",
+  "authors": [
+    {
+      "name": "Netrunner Zim",
+      "discord": "prometheus.z"
+    }
+  ],
+  "url": "https://github.com/TheInvaderZim/night-city-gang-and-corp-mook-pack",
+  "packs": [
+    {
+      "name": "NCGangsnCorpsMooks",
+      "label": "Night City Gang & Corp Pack - Mooks",
+      "path": "packs/NCGangsnCorpsMooks",
+      "type": "Actor",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "NCGangsnCorpsOther",
+      "label": "Night City Gang & Corp Pack - Information",
+      "path": "packs/NCGangsnCorpsOther",
+      "type": "JournalEntry",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
