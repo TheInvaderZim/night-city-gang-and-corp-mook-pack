@@ -37,5 +37,7 @@
         "ASSISTANT": "OWNER"
       }
     }
+	"manifest": "https://github.com/TheInvaderZim/night-city-gang-and-corp-mook-pack/releases/download/release/module.json",
+    "download": "https://github.com/TheInvaderZim/night-city-gang-and-corp-mook-pack/archive/refs/tags/release.zip"
   ]
 }
