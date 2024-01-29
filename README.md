@@ -2,6 +2,6 @@
 
 The NC Gang &amp; Corp Mook Pack, designed for the FoundryVTT Implementation of Cyberpunk RED.
 
-Accompanying PDF can be found here: https://drive.google.com/file/d/1rmub_x-yxFusRhHsgvnCCisxYykeicO0/view?usp=drive_link
+All writing by me. Associated gangs and corps are property of R. Talsorian games. See associated journals for full credits.
 
-All writing by me. Militech and Maelstrom are property of R. Talsorian games. All art by Midjourney.
+IMPORTANT NOTE: If you struggle to import mooks in bulk/mook sheets won't open, import mooks individually. Bug with Foundry - nothing I can do.
